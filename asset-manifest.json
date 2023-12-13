@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/MuseoProy/static/css/main.6802a488.css",
+    "main.js": "/MuseoProy/static/js/main.c76fed30.js",
+    "static/js/787.674ebe2e.chunk.js": "/MuseoProy/static/js/787.674ebe2e.chunk.js",
+    "static/media/museum.jpg": "/MuseoProy/static/media/museum.2e7b17d3ad4427425200.jpg",
+    "static/media/Logo.png": "/MuseoProy/static/media/Logo.19165a3a3b7f4192b452.png",
+    "index.html": "/MuseoProy/index.html",
+    "main.6802a488.css.map": "/MuseoProy/static/css/main.6802a488.css.map",
+    "main.c76fed30.js.map": "/MuseoProy/static/js/main.c76fed30.js.map",
+    "787.674ebe2e.chunk.js.map": "/MuseoProy/static/js/787.674ebe2e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6802a488.css",
+    "static/js/main.c76fed30.js"
+  ]
+}
